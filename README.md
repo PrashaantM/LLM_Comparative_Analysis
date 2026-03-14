@@ -36,6 +36,8 @@ deactivate
 
 Creating folders: mkdir folder_name
 changing directory: cd folder_name
+back to start directory: cd
+list of directories: ls
 
 
 
